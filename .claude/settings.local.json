@@ -1,0 +1,7 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(ls /Users/joe.meersman/Projects/workflow-sidebar-app/*.json)"
+    ]
+  }
+}
